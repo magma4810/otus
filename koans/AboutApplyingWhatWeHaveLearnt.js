@@ -1,5 +1,5 @@
 var _; //globals
-
+//что то изиенил тут
 describe("About Applying What We Have Learnt", function() {
 
   var products;
